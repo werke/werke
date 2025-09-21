@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Werke Ayalew  
 
-![Banner](https://i.imgur.com/DA5xG2k.png) <!-- You can replace this with your custom banner -->
+![Banner](https://i.imgur.com/DA5xG2k.png) <!-- Replace with your custom banner if needed -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=Senior+Software+Developer;MSc+in+Cyber+Security;Full+Stack+Web+%26+Mobile+Engineer;Cybersecurity+%7C+Machine+Learning+%7C+Networking;Electronics+%26+IoT+Builder" />
@@ -18,6 +18,20 @@
 
 ## 🛠️ Tech Stack
 
+### 👨‍💻 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Assembly-Low_Level_Programming-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly" />
+  <img src="https://img.shields.io/badge/C-System_Programming-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-High_Performance-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-Web_Development-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-Enterprise_Applications-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-Data_Science_&_AI-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/CSharp-Desktop_&_Game_Dev-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Bash-Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/PHP-Web_Backend-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Dart-Cross_Platform_Apps-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+</p>
+
 ### 💻 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -32,25 +46,29 @@
 ### 📱 Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 🛡️ Cybersecurity & Low-Level
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C1E?style=for-the-badge&logoColor=white)
+### 🛡️ Cybersecurity
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-Red_Team-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-Reverse_Engineering-8B0000?style=for-the-badge&logo=virustotal&logoColor=white)
+![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-Incident_Response-000000?style=for-the-badge&logo=autopsy&logoColor=white)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-Security_Audit-FF6F00?style=for-the-badge&logo=owasp&logoColor=white)
 
-### 🤖 Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🌐 Networking & Infrastructure
+![Network Security](https://img.shields.io/badge/Network_Security-Firewalls_&_IDS-1BA0E2?style=for-the-badge&logo=fortinet&logoColor=white)
+![Secure Protocols](https://img.shields.io/badge/Secure_Protocols-SSL_TLS_&_VPN-006699?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![Monitoring](https://img.shields.io/badge/Monitoring-Network_&_Traffic_Analysis-007ACC?style=for-the-badge&logo=prometheus&logoColor=white)
+![Infrastructure](https://img.shields.io/badge/Infrastructure-SDN_&_Cloud_Networks-2E8B57?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+### 🤖 Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-3499CD?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-### 🌐 Networking
-![Cisco](https://img.shields.io/badge/Cisco-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ### ⚙️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-System_Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-Cloud_Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -100,7 +118,7 @@
 - 🔹 **Low-Level Programming** – Assembly, C/C++  
 - 🔹 **Machine Learning & AI**  
 - 🔹 **Networking** – Secure network design, monitoring  
-- 🔹 Open-source contribution & tech community mentoring  
+- 🔹 **Open-Source Contribution & Mentoring**  
 
 ---
 
