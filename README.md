@@ -3,7 +3,7 @@
 ![Banner](https://avatars.githubusercontent.com/u/7707530?s=400&u=18545ee411e25d6d2e4ba2db9d05b88c5ef6e776&v=4) <!-- Optional banner -->
 
 ## About Me
-I am a **Senior Software Developer** with **8+ years of experience** and a **MSc in Cyber Security**.  
+I am a **Senior Software Developer** with **10+ years of experience** and a **MSc in Cyber Security**.  
 
 I specialize in:
 - **Backend:** Node.js, Django, Laravel  
