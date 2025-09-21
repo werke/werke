@@ -50,6 +50,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### 🛡️ Cybersecurity
+
 ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-Red_Team-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-Reverse_Engineering-8B0000?style=for-the-badge&logo=virustotal&logoColor=white)
 ![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-Incident_Response-000000?style=for-the-badge&logo=autopsy&logoColor=white)
