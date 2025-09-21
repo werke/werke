@@ -32,10 +32,13 @@
   <img src="https://img.shields.io/badge/Dart-Cross_Platform_Apps-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 </p>
 
+## 🛠️ Tech Stack
+
 ### 💻 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Microservices-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### 🎨 Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
@@ -54,21 +57,42 @@
 
 ### 🌐 Networking & Infrastructure
 ![Network Security](https://img.shields.io/badge/Network_Security-Firewalls_&_IDS-1BA0E2?style=for-the-badge&logo=fortinet&logoColor=white)
-![Secure Protocols](https://img.shields.io/badge/Secure_Protocols-SSL_TLS_&_VPN-006699?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![Monitoring](https://img.shields.io/badge/Monitoring-Network_&_Traffic_Analysis-007ACC?style=for-the-badge&logo=prometheus&logoColor=white)
+![Secure Protocols](https://img.shields.io/badge/Secure_Protocols-SSL_TLS_VPN_IPSec-006699?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![Traffic Analysis](https://img.shields.io/badge/Traffic_Analysis-Packet_Inspection-007ACC?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Infrastructure](https://img.shields.io/badge/Infrastructure-SDN_&_Cloud_Networks-2E8B57?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-### 🤖 Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-3499CD?style=for-the-badge&logo=scikitlearn&logoColor=white)
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
 
+### 🔌 APIs & Integration
+![REST](https://img.shields.io/badge/REST-API_Design-02569B?style=for-the-badge&logo=postman&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-Query_Language-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-Microservices-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-Real_Time-333333?style=for-the-badge&logo=socket.io&logoColor=white)
+![SOAP](https://img.shields.io/badge/SOAP-XML_Based_Services-FF9900?style=for-the-badge&logo=w3c&logoColor=white)
+
+### 👨‍💻 Programming Languages
+![Assembly](https://img.shields.io/badge/Assembly-Low_Level-6E4C13?style=for-the-badge&logo=intel&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### ⚙️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-System_Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-Cloud_Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 ---
 
