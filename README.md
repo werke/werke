@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Werke Ayalew
 
-![Banner](https://user-images.githubusercontent.com/your-image.png) <!-- Optional banner -->
+![Banner](https://avatars.githubusercontent.com/u/7707530?s=400&u=18545ee411e25d6d2e4ba2db9d05b88c5ef6e776&v=4) <!-- Optional banner -->
 
 ## About Me
 I am a **Senior Software Developer** with **8+ years of experience** and a **MSc in Cyber Security**.  
@@ -94,7 +94,7 @@ Git, GitHub, Docker, Linux, CI/CD, AWS, Heroku, DigitalOcean
 
 ## 📫 Connect With Me
 - 📧 Email: `werkea2@gmail.com.com`  
-- 📞 Phone: `+251 932632159`  
+- 📞 Phone: `+251 **********
 - 💼 LinkedIn: [[linkedin.com/in/werkeayalew](https://www.linkedin.com/in/werkeayalew/)]
 
 ---
