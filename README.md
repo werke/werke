@@ -86,6 +86,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### ⚙️ Tools & DevOps
@@ -138,7 +139,8 @@
 ## ❤️ Interests & Passion
 
 - 🔹 **Full-Stack Development** – Web & mobile  
-- 🔹 **Cybersecurity** – Ethical hacking, malware research  
+- 🔹 **Cybersecurity** – Ethical hacking, malware research
+- 🔹 **Web3** 
 - 🔹 **Electronics & IoT Projects**  
 - 🔹 **Low-Level Programming** – Assembly, C/C++  
 - 🔹 **Machine Learning & AI**  
